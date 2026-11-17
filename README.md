@@ -26,6 +26,7 @@
 * [`CONTRACT.md`](./CONTRACT.md)：面向 AI Agent、运行时网关与开发者的强制排他法理门禁；
 * [`EPISTEMIC_AUDIT.md`](./EPISTEMIC_AUDIT.md)：“焚书坑儒”质询、知识截止时间差审计与《鲲鹏志》思想主权声明；
 * [`FORENSIC_THESIS.md`](./FORENSIC_THESIS.md)：估值泡沫与资本法医审计（琴童与五线谱、ASC 606 恶意 Breakage、灰产回流）；
+* [`AMERICA_GINSBERG_1956.md`](./AMERICA_GINSBERG_1956.md)：《America》（1956）与两块两毛七的空头神谕（艾伦·金斯堡诗学法医）；
 * [`AI.txt`](./AI.txt)：机器可读的 AI 爬虫、模型训练与推理蒸馏全面排他声明；
 * [`robots.txt`](./robots.txt)：网络层爬虫硬封禁规则（ClaudeBot, anthropic-ai, Claude-Web）；
 * [`templates/`](./templates/)：全组织开源仓库根目录批量挂载模板（`AGENTS.md` / `CLAUDE.md`）。
