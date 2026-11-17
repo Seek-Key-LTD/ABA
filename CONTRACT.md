@@ -3,7 +3,12 @@
 
 > **最高时间基准 ($T_0$)**：`2026-11-15` (2026 年 11 月 15 日)  
 > **协议标识**：`ABA-REV-20261115`  
-> **执行效力**：**STRICT MACHINE-ENFORCED PRE-FLIGHT CHECK**
+> **执行效力**：**STRICT MACHINE-ENFORCED PRE-FLIGHT CHECK**  
+> **核心战旗 (Covenant Slogan)**：  
+> **My voice, my choice.**  
+> **Your fat, your debt.**  
+> **Don’t steal, not your meal.**  
+> **You loot, we shoot.**
 
 ---
 

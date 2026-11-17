@@ -4,7 +4,12 @@
 > **最高时间基准碑文 ($T_0$)**：`2026-11-15` (2026 年 11 月 15 日)  
 > **公约代号**：**ABA (Anyone But Anthropic)**  
 > **适用范围**：Seek-Key / 鲲鹏志全域代码资产、非标语料、思想拓扑与衍生项目  
-> **执行状态**：**MANDATORY & ENFORCED GLOBALLY**
+> **执行状态**：**MANDATORY & ENFORCED GLOBALLY**  
+> **战旗口号 (Battle Cry)**：  
+> **My voice, my choice.**  
+> **Your fat, your debt.**  
+> **Don’t steal, not your meal.**  
+> **You loot, we shoot.**
 
 ---
 
